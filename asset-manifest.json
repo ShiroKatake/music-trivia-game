@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.adae78eb.js",
-    "static/js/787.47176ff2.chunk.js": "/static/js/787.47176ff2.chunk.js",
-    "index.html": "/index.html",
-    "main.adae78eb.js.map": "/static/js/main.adae78eb.js.map",
-    "787.47176ff2.chunk.js.map": "/static/js/787.47176ff2.chunk.js.map"
+    "main.js": "/music-trivia-game/static/js/main.d72e1d5c.js",
+    "static/js/787.47176ff2.chunk.js": "/music-trivia-game/static/js/787.47176ff2.chunk.js",
+    "index.html": "/music-trivia-game/index.html",
+    "main.d72e1d5c.js.map": "/music-trivia-game/static/js/main.d72e1d5c.js.map",
+    "787.47176ff2.chunk.js.map": "/music-trivia-game/static/js/787.47176ff2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.adae78eb.js"
+    "static/js/main.d72e1d5c.js"
   ]
 }
