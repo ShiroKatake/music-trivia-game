@@ -55,7 +55,7 @@ jobs:
 
       - name: 🚀 Deploy
         id: deploy
-        uses: peaceiris/actions-gh-pages@v3.7.3
+        uses: peaceiris/actions-gh-pages@v3.8.0
         with:
           deploy_key: ${{ secrets.DEPLOY_KEY }}
           publish_dir: ./build
@@ -70,7 +70,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Get Workflow Conclusion
-        uses: technote-space/workflow-conclusion-action@v2
+        uses: technote-space/workflow-conclusion-action@v3
 
       - name: Notify Success
         if: env.WORKFLOW_CONCLUSION == 'success'
